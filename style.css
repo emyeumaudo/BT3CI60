@@ -1,0 +1,20 @@
+.film-container {
+  width: 300px;
+  height: 500px;
+}
+
+.film-container .film-image {
+  padding: 10px;
+  display: flex;
+  height: 300px;
+  background-image: url(https://i.pinimg.com/originals/7b/3b/1b/7b3b1b0dd0ebb816ad9b14fe93ef1787.jpg);
+  background-size: 100% 100%;
+}
+
+.film-container .film-image .comic-release {
+  border-radius: 5px;
+  color: antiquewhite;
+  background-color: #4a8af4;
+  height: 40px;
+  margin-left: 10px;
+}
